@@ -48,3 +48,9 @@ The catalogue includes previews and links to every pointer variant and PNG size.
 The pressed pointing hand is available as `pointer-{colour}-active`, with the fingertip lowered by one pixel step and three click marks. Blue and white variants retain the cyan details; black and white-mono keep all artwork in a single colour.
 
 It matches the regular pointer set: transparent SVG, vector RGB PDF, transparent PNGs at 64, 128, 256 and 512 pixels wide, and square transparent ICOs containing 16, 24, 32, 48, 64, 128 and 256 pixel sizes. The 160 x 207 SVG canvas and palm/wrist alignment match the regular pointer for consistent placement between states.
+
+## Text cursor
+
+The pixel-style I-beam is available as `text-cursor-{colour}`. It retains the cursor family's 13-unit steps and cyan accent. Blue and white variants include the cyan pixel; black and white-mono use a single colour.
+
+Formats match the other cursors: transparent SVG on a 108 x 207 canvas, vector RGB PDF, transparent PNGs at 64, 128, 256 and 512 pixels wide, and square transparent ICOs containing 16, 24, 32, 48, 64, 128 and 256 pixel sizes. PNG and ICO exports preserve the I-beam proportions, with the ICO artwork centred.
