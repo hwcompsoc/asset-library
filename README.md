@@ -42,3 +42,9 @@ The pointing-hand cursor uses the original arrow cursor as its design base, reta
 - ICO: square transparent icons containing 16, 24, 32, 48, 64, 128 and 256 pixel sizes, with the hand centred and its proportions preserved.
 
 The catalogue includes previews and links to every pointer variant and PNG size.
+
+## Active pointer cursor
+
+The pressed pointing hand is available as `pointer-{colour}-active`, with the fingertip lowered by one pixel step and three click marks. Blue and white variants retain the cyan details; black and white-mono keep all artwork in a single colour.
+
+It matches the regular pointer set: transparent SVG, vector RGB PDF, transparent PNGs at 64, 128, 256 and 512 pixels wide, and square transparent ICOs containing 16, 24, 32, 48, 64, 128 and 256 pixel sizes. The 160 x 207 SVG canvas and palm/wrist alignment match the regular pointer for consistent placement between states.
