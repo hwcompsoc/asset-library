@@ -54,3 +54,9 @@ It matches the regular pointer set: transparent SVG, vector RGB PDF, transparent
 The pixel-style I-beam is available as `text-cursor-{colour}`. It retains the cursor family's 13-unit steps and cyan accent. Blue and white variants include the cyan pixel; black and white-mono use a single colour.
 
 Formats match the other cursors: transparent SVG on a 108 x 207 canvas, vector RGB PDF, transparent PNGs at 64, 128, 256 and 512 pixels wide, and square transparent ICOs containing 16, 24, 32, 48, 64, 128 and 256 pixel sizes. PNG and ICO exports preserve the I-beam proportions, with the ICO artwork centred.
+
+## Active text cursor
+
+The pressed I-beam is available as `text-cursor-{colour}-active`, with a cross marking the selection point. Blue and white variants highlight the cross and accent pixel in cyan; black and white-mono use a single colour throughout.
+
+It matches the regular text cursor set: transparent SVG on a 108 x 207 canvas, vector RGB PDF, transparent PNGs at 64, 128, 256 and 512 pixels wide, and square transparent ICOs containing 16, 24, 32, 48, 64, 128 and 256 pixel sizes. Artwork proportions and the central hotspot align with the regular I-beam.
