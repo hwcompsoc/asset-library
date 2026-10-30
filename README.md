@@ -30,3 +30,15 @@ The supplied dark PNG has a slightly textured background; its median and most co
 - PDF: vector copies of every logo and cursor variant, with outlined shapes and no embedded raster images. White artwork has no background and is intended for placement on dark surfaces. The full-background PDFs include their solid background. Colours remain RGB; use a printer-specific conversion if CMYK is required.
 - JPEG: full-background logos at 1024 and 2048 pixels wide, saved at high quality. JPEG does not support transparency.
 - ICO: square, transparent cursor icons containing 16, 24, 32, 48, 64, 128 and 256 pixel sizes. favicon.ico uses the blue cursor; white variants are intended for dark surfaces. Check the smallest sizes in your browser.
+
+## Pointer cursor
+
+The pointing-hand cursor uses the original arrow cursor as its design base, retaining the stepped outline and cyan detail. Find it alongside the arrow assets as `pointer-{colour}`.
+
+- Colours: blue and white with cyan accents; black and white-mono in a single colour.
+- SVG: transparent vector artwork at the original 160 x 207 proportions.
+- PNG: transparent exports at 64, 128, 256 and 512 pixels wide, preserving the artwork proportions.
+- PDF: transparent vector copies in RGB, with no embedded raster artwork.
+- ICO: square transparent icons containing 16, 24, 32, 48, 64, 128 and 256 pixel sizes, with the hand centred and its proportions preserved.
+
+The catalogue includes previews and links to every pointer variant and PNG size.
